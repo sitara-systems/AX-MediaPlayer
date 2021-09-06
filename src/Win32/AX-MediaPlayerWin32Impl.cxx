@@ -6,9 +6,9 @@
 //  (c) 2021 AX Interactive (axinteractive.com.au)
 //
 
-#include "AX-MediaPlayerWin32Impl.h"
-#include "AX-MediaPlayerWin32WICRenderPath.h"
-#include "AX-MediaPlayerWin32DXGIRenderPath.h"
+#include "Win32/AX-MediaPlayerWin32Impl.h"
+#include "Win32/AX-MediaPlayerWin32WICRenderPath.h"
+#include "Win32/AX-MediaPlayerWin32DXGIRenderPath.h"
 
 #include "cinder/app/App.h"
 #include "cinder/DataSource.h"

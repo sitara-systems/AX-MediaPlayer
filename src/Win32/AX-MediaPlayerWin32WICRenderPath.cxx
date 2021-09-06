@@ -6,7 +6,7 @@
 //  (c) 2021 AX Interactive
 //
 
-#include "AX-MediaPlayerWin32WICRenderPath.h"
+#include "Win32/AX-MediaPlayerWin32WICRenderPath.h"
 
 using namespace ci;
 

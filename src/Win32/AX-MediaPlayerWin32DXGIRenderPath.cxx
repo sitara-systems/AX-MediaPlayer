@@ -9,7 +9,7 @@
 
 #pragma comment(lib, "d3d11.lib")
 
-#include "AX-MediaPlayerWin32DXGIRenderPath.h"
+#include "Win32/AX-MediaPlayerWin32DXGIRenderPath.h"
 #include "glad/glad_wgl.h"
 
 #include "cinder/app/App.h"
